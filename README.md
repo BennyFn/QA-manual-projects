@@ -1,5 +1,6 @@
 # QA-manual-projects
-Projects that done in the QA course
+Projects that done in the QA course:
+
 First project: RDC, Desktop software
 
 Second project: Yad2, Mobile app
